@@ -1,0 +1,49 @@
+#main{
+    background-color: aqua;
+    height: 100vh;
+    margin: 70px;
+}
+#left{
+    float: left;
+    width: 100px;
+    background-color: purple;
+    height: 100vh;
+    margin-top: 0;
+    margin-left: 50px;
+    margin-right: 10px;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px;
+    border-radius: 30px;
+}
+#secondary{
+    float: left;
+    background-color: crimson;
+    color: whitesmoke;
+    width: 500px;
+    height: 100vh;
+    margin: 30px;
+    margin-top: 0;
+    margin-left: 10px;
+    border-radius: 30px;
+}
+#right{
+    float: left;
+    width: 100px;
+    background-color: yellow;
+    height: 100vh;
+    margin-left: 10px;
+    margin-right: 20px;
+    color: black;
+    text-align: center;
+    padding: 5px;
+    border-radius: 30px;
+}
+.first{
+    background-color: green;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+   box-sizing: border-box;
+   border-radius: 30px;
+}
